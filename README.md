@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm ronald6xhp9194
 
-<!--
-**ronald6xhp9194/ronald6xhp9194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 🏏 🏒 Always learning about UI/UX design 🚀 🏏 🏒
 
-Here are some ideas to get you started:
+## About Me
+💻 🏏 A developer in cybersecurity 💻 🏏
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🥁 🎧 🚴 🎨 Exploring the world of design thinking 🥁 🎧 🚴 🎨
+
+### Fun Facts
+🏓 🎨 🚵 🎸 A designer in developer advocacy 🏓 🎨 🚵 🎸
+
+---
+🚵 🛹 🎮 🎰 🎽 Thanks for visiting my profile! 🏊 🚣 🎨 🎺 🌈
